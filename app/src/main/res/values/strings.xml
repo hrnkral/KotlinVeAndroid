@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KullaniciArayuzu</string>
+    <string name="harunun_uygulamasi">Harunun Uygulamasi</string>
+    <string name="kaydet">Kaydet</string>
 </resources>
